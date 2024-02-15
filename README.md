@@ -8,3 +8,7 @@
 - Belajar kelas Belajar Dasar Git dengan GitHub. (Progress 39%)
   * Belajar studi kasus pengalaman belajar git dan github.
   * update readme.md
+
+- Belajar kelas Belajar Dasar Git dengan GitHub. (Progress 42%)
+  * Belajar membuat perintah commit yang baik.
+  * Memahami konsep git dan github bekerja.
