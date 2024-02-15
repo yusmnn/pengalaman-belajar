@@ -12,3 +12,8 @@
 - Belajar kelas Belajar Dasar Git dengan GitHub. (Progress 42%)
   * Belajar membuat perintah commit yang baik.
   * Memahami konsep git dan github bekerja.
+- Belajar kelas Belajar Dasar Git dengan GitHub. (Progress 100%)
+  * Belajar Git branches.
+  * Belajar berkolaborasi dengan tim.
+  * Beljar Studi kasus Kolaborasi dengan tim.
+  * Belajar membangun github menjadi portfolio dengan readme.md
